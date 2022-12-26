@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Kenan",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Ali",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Men",
+      "author": "typicode"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    [
+      {
+        "title": "ali",
+        "author": "salam"
+      }
+    ],
+    [
+      {
+        "title": "ali",
+        "author": "salam"
+      }
+    ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
